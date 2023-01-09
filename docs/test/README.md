@@ -150,7 +150,7 @@
 
 <center>
 
-![](../../images/delete_by_id.jpg)
+![](../../images/Delete_by_id.jpg)
 
 </center>
 
@@ -158,7 +158,7 @@
 
 <center>
 
-![](../../images/delete_by_id_result.jpg)
+![](../../images/Delete_by_id_result.jpg)
 
 </center>
 
@@ -166,7 +166,7 @@
 
 <center>
 
-![](../../images/delete_by_non-existent_id.jpg)
+![](../../images/Delete_by_non-existent_id.jpg)
 
 </center>
 
